@@ -30,13 +30,27 @@ To understand customer shopping behavior and generate actionable business insigh
 - Top-rated and best-selling products.
 - Repeat purchase analysis.
 
+
 ### 3. Dashboard & Visualization (Power BI)
-- Total customers and average purchase amount.
-- Average customer review ratings.
-- Revenue and sales by category.
-- Subscription analysis.
-- Revenue by age group.
-- Interactive filters for customer behavior analysis.
+
+Created an interactive **Customer Behavior Dashboard** in Power BI to visualize customer purchasing patterns and business performance.
+
+**Dashboard Highlights:**
+- **Key KPIs:** Total Customers (3.9K), Average Purchase Amount ($59.76), and Average Review Rating (3.75).
+- **Subscription Analysis:** Percentage of customers by subscription status (Yes/No).
+- **Revenue by Category:** Comparison of revenue across product categories.
+- **Sales by Category:** Analysis of sales performance across categories.
+- **Revenue by Age Group:** Revenue contribution from different customer age groups.
+- **Sales by Age Group:** Comparison of customer sales across age groups.
+
+**Interactive Filters:**
+- Subscription Status
+- Gender
+- Product Category
+- Shipping Type
+
+The dashboard enables stakeholders to explore customer behavior, compare sales performance, and make data-driven business decisions.
+
 
 ## 📊 Dataset Overview
 
