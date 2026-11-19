@@ -51,6 +51,10 @@ Created an interactive **Customer Behavior Dashboard** in Power BI to visualize 
 
 The dashboard enables stakeholders to explore customer behavior, compare sales performance, and make data-driven business decisions.
 
+## 🖥️ Dashboard Preview
+
+![Blinkit Dashboard](Dashboard.png)
+
 
 ## 📊 Dataset Overview
 
